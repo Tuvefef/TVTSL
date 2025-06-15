@@ -15,6 +15,8 @@ For this reason I haven't ported it to Minecraft patch either.
 precision errors may appear 
 optimization settings and special configurations
 something that is not possible in minecraft patch
+It is also compatible with render dragon using mb loader 
+*It is worth clarifying that I have errors when starting with that application but it may work for you
 
 ## besides ##
 This is intended to show a function that only high caliber shaders could do without lag.
